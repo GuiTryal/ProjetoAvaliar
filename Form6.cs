@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ProjetoSistema
 {
-    public partial class AcessoUsuario : Form
+    public partial class Form6 : Form
     {
-        public AcessoUsuario()
+        public Form6()
         {
             InitializeComponent();
-        }
-
-        private void AcessoUsuario_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

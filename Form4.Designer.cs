@@ -52,6 +52,7 @@
             this.DoubleBuffered = true;
             this.Name = "AcessoUsuario";
             this.Text = "Portal do Usuario";
+            this.Load += new System.EventHandler(this.AcessoUsuario_Load);
             this.ResumeLayout(false);
 
         }

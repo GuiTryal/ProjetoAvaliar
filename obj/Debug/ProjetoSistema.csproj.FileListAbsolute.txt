@@ -12,3 +12,17 @@ C:\Users\Joao\source\repos\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistem
 C:\Users\Joao\source\repos\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.PortalADM.resources
 C:\Users\Joao\source\repos\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.AcessoUsuario.resources
 C:\Users\Joao\source\repos\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.painelADM.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\bin\Debug\ProjetoSistema.exe.config
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\bin\Debug\ProjetoSistema.exe
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\bin\Debug\ProjetoSistema.pdb
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\WindowsFormsApp1.TelaInicial.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.PortalAcesso.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.PortalADM.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.AcessoUsuario.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.painelADM.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.exe
+C:\Users\Usuario\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Área de Trabalho\ProjetoSistema\ProjetoSistema\obj\Debug\ProjetoSistema.pdb
